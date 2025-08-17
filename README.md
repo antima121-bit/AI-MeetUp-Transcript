@@ -21,7 +21,8 @@ The generated summary should be editable.
 
 Once edits are made, the user should be able to share the summary via email by entering recipient addresses.
 
-
+##Live Demo:
+https://v0-full-fledge-project.vercel.app/
 
 ## Deployment
 
